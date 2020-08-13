@@ -1,5 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Killua-Zoldyck-007)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Killua-Zoldyck-007&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killua-Zoldyck-007&layout=compact&theme=radical" />
 <!--
 **Killua-Zoldyck-007/Killua-Zoldyck-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
